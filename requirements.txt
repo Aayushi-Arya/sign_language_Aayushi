@@ -1,0 +1,7 @@
+ultralytics        # YOLOv8 by Ultralytics
+opencv-python      # For real-time video capture
+numpy              # Array and numerical operations
+pandas             # Data manipulation
+matplotlib         # Visualizations
+ipykernel          # Jupyter Notebook compatibility
+tqdm               # Progress bar for loops
